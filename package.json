@@ -1,14 +1,14 @@
 {
-  "name": "statusweb",
+  "name": "statusapi",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "https://github.com/light2k4",
+  "license": "MIT",
+  "description": "A simple API to check the status of a service",
   "dependencies": {
     "express": "^4.19.2"
   }
